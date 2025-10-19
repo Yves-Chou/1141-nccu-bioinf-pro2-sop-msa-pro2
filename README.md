@@ -1,6 +1,6 @@
 # pro2. calculate the Sum-Of-Pair score of the MSA
 * 周彥廷
-* 110601043
+* 110601043 
 
 ## Description
 
